@@ -1,0 +1,15 @@
+{
+  "name": "babel-preset-hyperdom",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-transform-jsx-hyperdom-binding": "^1.0.0",
+    "babel-plugin-transform-react-jsx": "^6.23.0"
+  }
+}
