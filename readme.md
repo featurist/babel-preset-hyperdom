@@ -7,7 +7,7 @@
 In
 
 ```jsx
-<input type="text" binding="item[n].method().name"/>
+<input type="text" binding={item[n].method().name}/>
 ```
 
 Out
