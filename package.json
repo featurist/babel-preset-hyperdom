@@ -6,7 +6,7 @@
   "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "babel-plugin-transform-jsx-hyperdom-binding": "1.4.1",
+    "babel-plugin-transform-jsx-hyperdom-binding": "^1.5.0",
     "babel-plugin-transform-react-jsx": "^6.23.0"
   },
   "devDependencies": {},
