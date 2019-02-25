@@ -22,6 +22,12 @@ hyperdom.jsx("input", { type: "text", binding: [item[n].method(), "name"] });
 npm install --save-dev babel-preset-hyperdom
 ```
 
+For babel 6
+
+```sh
+npm install --save-dev babel-preset-hyperdom@1.4.0
+```
+
 ## Usage
 
 ### Via `.babelrc` (Recommended)
