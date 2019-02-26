@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-hyperdom",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "description": "> Babel presets for hyperdom: JSX, binding syntax",
   "main": "index.js",
   "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
